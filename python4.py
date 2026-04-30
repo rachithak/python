@@ -1,0 +1,11 @@
+print("program")
+list=[3,4,1,9,5]
+print(list)
+list.insert(2,8)
+print(list)
+list.pop()
+print(list)
+list.remove(3)
+print(list)
+list.pop(2)
+print(list)
