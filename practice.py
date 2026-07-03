@@ -1,5 +1,4 @@
-n=int(input("enter your number:"))
-if n%2==0:
-    print("it is even")
-else: 
-    print("it is odd")
+counter = 0
+for name, subjects in students:
+    if "CompSci" in subjects:
+        counter += 1
