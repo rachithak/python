@@ -1,3 +1,3 @@
-our_strings="hello,world!"
-all_caps=our_strings.upper()
-print(all_caps)
+greeting = "Hello, world!"
+new_greeting = "J" + greeting[1:]
+print(new_greeting)
