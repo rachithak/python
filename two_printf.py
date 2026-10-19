@@ -1,0 +1,1 @@
+print("hello",end=" ");print(5)
